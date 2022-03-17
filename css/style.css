@@ -62,3 +62,10 @@
     width: 20%;
     margin-left: 20px;
 }
+
+.footer-box {
+    background-color: #8801fe;
+    min-height: 80px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
